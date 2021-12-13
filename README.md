@@ -21,7 +21,7 @@
 
 #### 每日一题
 
--   [x] [【day-01】66.加一](./basic/array-stack-queue/01.leetcode989. 数组形式的整数加法.md)
+-   [x] [【day-01】66.加一](./basic/array-stack-queue/01.leetcode989.数组形式的整数加法.md)
 -   [x] [【day-02】821.字符的最短距离](./basic/array-stack-queue/02.leetcode821.字符的最短距离.md)
 
 
