@@ -1,6 +1,4 @@
-# 91-days-algorithm
-
-如果我的题解有帮到你的话，还是欢迎右上角 Star 🌟 这个仓库的。（拜托拜托ớ ₃ờ）
+# 91-days-algorithm(6)
 
 # LeetCode 题解
 
