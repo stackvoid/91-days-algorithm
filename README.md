@@ -18,12 +18,13 @@
 ### 数组，栈，队列
 
 #### 每日一题
-05.leetcode232. 用栈实现队列.md
+
 -   [x] [【day-01】989. 数组形式的整数加法](./basic/array-stack-queue/01.leetcode989.数组形式的整数加法.md)
 -   [x] [【day-02】821.字符的最短距离](./basic/array-stack-queue/02.leetcode821.字符的最短距离.md)
 -   [x] [【day-03】1381.设计一个支持下述操作的栈](./basic/array-stack-queue/03.leetcode1381.设计一个支持下述操作的栈.md)
 -   [x] [【day-04】394.字符串解码](./basic/array-stack-queue/04.leetcode394.字符串解码.md)
--   [x] [【day-04】232.用栈实现队列.md](./basic/array-stack-queue/05.leetcode232.用栈实现队列.md)
+-   [x] [【day-05】232.用栈实现队列.md](./basic/array-stack-queue/05.leetcode232.用栈实现队列.md)
+-   [x] [【day-06】768.最多能完成排序的块II.md](./basic/array-stack-queue/06.leetcode768.最多能完成排序的块II.md)
 
 
 #### 数组拓展题目
