@@ -25,6 +25,7 @@
 -   [x] [【day-04】394.字符串解码](./basic/array-stack-queue/04.leetcode394.字符串解码.md)
 -   [x] [【day-05】232.用栈实现队列.md](./basic/array-stack-queue/05.leetcode232.用栈实现队列.md)
 -   [x] [【day-06】768.最多能完成排序的块II.md](./basic/array-stack-queue/06.leetcode768.最多能完成排序的块II.md)
+-   [x] [【day-07】61.旋转链表.md](./basic/array-stack-queue/07.leetcode61.旋转链表.md)
 
 
 #### 数组拓展题目
