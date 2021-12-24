@@ -61,7 +61,7 @@
 -   [x] [【day-09】109.有序链表转换二叉搜索树.md](./basic/linkedlist&tree/109.有序链表转换二叉搜索树.md)
 -   [x] [【day-10】160.相交链表.md](./basic/linkedlist&tree/160.相交链表.md)
 -   [x] [【day-11】142.环形链表II.md](./basic/linkedlist&tree/142.环形链表II.md)
--   [x] [【day-12】142.环形链表II.md](./basic/linkedlist&tree/146.LRU缓存机制.md)
+-   [x] [【day-12】146.LRU缓存机制.md.md](./basic/linkedlist&tree/146.LRU缓存机制.md)
 
 
 #### 链表拓展题目
