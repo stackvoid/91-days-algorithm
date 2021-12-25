@@ -76,6 +76,7 @@
 
 #### 每日一题
 -   [x] [【day-13】13.104.二叉树的最大深度.md](./basic/linkedlist&tree/13.104.二叉树的最大深度.md)
+-   [x] [【day-14】14.100.相同的树.md](./basic/linkedlist&tree/14.100.相同的树.md)
 
 
 #### 树拓展题目
