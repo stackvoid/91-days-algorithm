@@ -81,6 +81,7 @@
 
 #### 树拓展题目
 
+-   [x] [1609.奇偶树](./basic/linkedlist&tree/others/1609.奇偶树.md)
 -   [ ] [105.从前序与中序遍历序列构造二叉树](./basic/binary-tree/ext-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 -   [ ] [404.左叶子之和](./basic/binary-tree/ext-sum-of-left-leaves.md)
 -   [ ] [257.二叉树的所有路径](./basic/binary-tree/ext-binary-tree-paths.md)
